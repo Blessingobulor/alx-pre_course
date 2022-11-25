@@ -1,1 +1,1 @@
-my second commit update
+This updating readme in git
